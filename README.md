@@ -13,7 +13,7 @@
      
 <strong>Hi, I am 小赵!👋 </strong>
 
-<strong>A full stack developer from China🇨🇳. </strong>
+<strong>A student from China🇨🇳. </strong>
 
 </pre> 
 
