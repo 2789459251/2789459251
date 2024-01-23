@@ -1,4 +1,4 @@
-[Weibo](http://weibo.com/pc175) • [Twitter](https://twitter.com/jaywcjlove) • [E-Mail](mailto:wowohoo@qq.com) • [Sponsor](https://jaywcjlove.github.io/#/sponsor)
+[Weibo](http://weibo.com/pc175)  • [E-Mail](mailto:wowohoo@qq.com) • [Sponsor](https://jaywcjlove.github.io/#/sponsor)
 
 <div align="center">
   <br>
