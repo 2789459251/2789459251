@@ -26,7 +26,7 @@
 👋 If there is flowery spring breeze, can I be young again 👋
 
 ![力扣数据](https://leetcode.cn/progress/)
-![CSDN 数据](https://stats.justsong.cn/api/csdn?id=m0_74120645)
+![CSDN 数据](https://leetcode.cn/session/)
 
 ###                           👋  If there is flowery spring breeze, can I be young again 👋
 
