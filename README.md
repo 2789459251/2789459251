@@ -25,7 +25,7 @@
 <img src="https://profile-counter.glitch.me/2789459251/count.svg" />
 👋 If there is flowery spring breeze, can I be young again 👋
 
-![力扣数据](https://leetcode.cn/progress/)
+![力扣数据](https://leetcode.cn/u/Lkz2i7RRMG/)
 ![CSDN 数据](https://leetcode.cn/session/)
 
 ###                           👋  If there is flowery spring breeze, can I be young again 👋
