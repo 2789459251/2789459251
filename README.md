@@ -24,10 +24,6 @@
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/2789459251/count.svg" />
 
-[力扣数据](https://leetcode.cn/u/Lkz2i7RRMG/)
-[csdn博客](https://blog.csdn.net/weixin_73815624?spm=1000.2115.3001.5343)
-
-
 ###                           👋  If there is flowery spring breeze, can I be young again 👋
 
                                👋      个人博客：[Zy_Blog](https://2789459251.github.io/) 👋
